@@ -128,5 +128,8 @@
                 </div>
             </div>
         </div>
+
+        <div id="app"></div>
+        @vite
     </body>
 </html>
